@@ -31,3 +31,4 @@ However, the management noticed that they do not get enough insights to make qui
 - Queries to Visual Interpretation. The process to convert SQL queries to visual interpretation by means that can easily convey the insight.
 - Presentation skills.
 
+**Video Presentation :** [Link](https://www.youtube.com/embed/yT0zIzErFP4?si=FN9HtdCTdoefn5d8)
